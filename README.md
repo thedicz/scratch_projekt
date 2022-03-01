@@ -2,6 +2,8 @@
 
 A játék, amit készítettem a sokak által ismert snake játék mintája alapján készült. A játékos a nyilak segítségével mozgathatja a kígyót, akinek az almákat kell elkapni. Minden egyes alma után a kígyónk nő egy blokkal. A játékban elért pontszám függ attól, hogy milyen gyorsan tudjuk elkapni az almákat.
 
+A projekt linkje: https://scratch.mit.edu/projects/648249385/editor/
+
 
 ![s1](https://user-images.githubusercontent.com/100319699/156032328-949a558a-4ad0-473d-813d-a088e0b58eb1.png)
 
